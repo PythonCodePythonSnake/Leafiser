@@ -1,0 +1,5 @@
+https://www.tutorialspoint.com/pygame/pygame_using_camera_module.htm#:~:text=camera%20module.,returned%20by%20list_cameras()%20method.&text=To%20initialize%20a%20camera%20object,id%2C%20resolution%20and%20format%20arguments.
+https://www.geeksforgeeks.org/python-tkinter-tutorial/
+https://www.geeksforgeeks.org/how-to-create-a-text-input-box-with-pygame/
+
+C:\Users\patha\AppData\Local\Packages
